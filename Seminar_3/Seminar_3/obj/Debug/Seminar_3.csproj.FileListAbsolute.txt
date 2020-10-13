@@ -1,0 +1,11 @@
+C:\Users\Peanut\source\repos\Seminar_3\Seminar_3\bin\Debug\Seminar_3.exe.config
+C:\Users\Peanut\source\repos\Seminar_3\Seminar_3\bin\Debug\Seminar_3.exe
+C:\Users\Peanut\source\repos\Seminar_3\Seminar_3\bin\Debug\Seminar_3.pdb
+C:\Users\Peanut\source\repos\Seminar_3\Seminar_3\obj\Debug\Seminar_3.csprojAssemblyReference.cache
+C:\Users\Peanut\source\repos\Seminar_3\Seminar_3\obj\Debug\Seminar_3.Form1.resources
+C:\Users\Peanut\source\repos\Seminar_3\Seminar_3\obj\Debug\Seminar_3.Properties.Resources.resources
+C:\Users\Peanut\source\repos\Seminar_3\Seminar_3\obj\Debug\Seminar_3.csproj.GenerateResource.cache
+C:\Users\Peanut\source\repos\Seminar_3\Seminar_3\obj\Debug\Seminar_3.csproj.CoreCompileInputs.cache
+C:\Users\Peanut\source\repos\Seminar_3\Seminar_3\obj\Debug\Seminar_3.exe
+C:\Users\Peanut\source\repos\Seminar_3\Seminar_3\obj\Debug\Seminar_3.pdb
+C:\Users\Peanut\source\repos\Seminar_3\Seminar_3\obj\Debug\Seminar_3.Form2.resources
