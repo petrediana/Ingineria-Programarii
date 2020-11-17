@@ -1,0 +1,8 @@
+C:\Users\Peanut\source\repos\TestReflection\TestReflectionClassLibrary\bin\Debug\TestReflectionClassLibrary.dll
+C:\Users\Peanut\source\repos\TestReflection\TestReflectionClassLibrary\bin\Debug\TestReflectionClassLibrary.pdb
+C:\Users\Peanut\source\repos\TestReflection\TestReflectionClassLibrary\obj\Debug\TestReflectionClassLibrary.csprojAssemblyReference.cache
+C:\Users\Peanut\source\repos\TestReflection\TestReflectionClassLibrary\obj\Debug\TestReflectionClassLibrary.Resource1.resources
+C:\Users\Peanut\source\repos\TestReflection\TestReflectionClassLibrary\obj\Debug\TestReflectionClassLibrary.csproj.GenerateResource.cache
+C:\Users\Peanut\source\repos\TestReflection\TestReflectionClassLibrary\obj\Debug\TestReflectionClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Peanut\source\repos\TestReflection\TestReflectionClassLibrary\obj\Debug\TestReflectionClassLibrary.dll
+C:\Users\Peanut\source\repos\TestReflection\TestReflectionClassLibrary\obj\Debug\TestReflectionClassLibrary.pdb
