@@ -1,0 +1,6 @@
+C:\Users\Peanut\source\repos\SimpleEditor\SimpleEditor\bin\Debug\SimpleEditor.dll
+C:\Users\Peanut\source\repos\SimpleEditor\SimpleEditor\bin\Debug\SimpleEditor.pdb
+C:\Users\Peanut\source\repos\SimpleEditor\SimpleEditor\obj\Debug\SimpleEditor.csprojAssemblyReference.cache
+C:\Users\Peanut\source\repos\SimpleEditor\SimpleEditor\obj\Debug\SimpleEditor.csproj.CoreCompileInputs.cache
+C:\Users\Peanut\source\repos\SimpleEditor\SimpleEditor\obj\Debug\SimpleEditor.dll
+C:\Users\Peanut\source\repos\SimpleEditor\SimpleEditor\obj\Debug\SimpleEditor.pdb
