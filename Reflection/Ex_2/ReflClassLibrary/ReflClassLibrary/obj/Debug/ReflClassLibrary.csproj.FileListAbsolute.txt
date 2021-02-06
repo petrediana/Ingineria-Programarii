@@ -1,0 +1,7 @@
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Ex_2\ReflClassLibrary\ReflClassLibrary\bin\Debug\ReflClassLibrary.dll
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Ex_2\ReflClassLibrary\ReflClassLibrary\bin\Debug\ReflClassLibrary.pdb
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Ex_2\ReflClassLibrary\ReflClassLibrary\obj\Debug\ReflClassLibrary.Resource1.resources
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Ex_2\ReflClassLibrary\ReflClassLibrary\obj\Debug\ReflClassLibrary.csproj.GenerateResource.cache
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Ex_2\ReflClassLibrary\ReflClassLibrary\obj\Debug\ReflClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Ex_2\ReflClassLibrary\ReflClassLibrary\obj\Debug\ReflClassLibrary.dll
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Ex_2\ReflClassLibrary\ReflClassLibrary\obj\Debug\ReflClassLibrary.pdb

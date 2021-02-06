@@ -1,0 +1,7 @@
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Ex_1\ReflectionExercitiu\ReflectionExercitiu\bin\Debug\ReflectionExercitiu.exe.config
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Ex_1\ReflectionExercitiu\ReflectionExercitiu\bin\Debug\ReflectionExercitiu.exe
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Ex_1\ReflectionExercitiu\ReflectionExercitiu\bin\Debug\ReflectionExercitiu.pdb
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Ex_1\ReflectionExercitiu\ReflectionExercitiu\obj\Debug\ReflectionExercitiu.csprojAssemblyReference.cache
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Ex_1\ReflectionExercitiu\ReflectionExercitiu\obj\Debug\ReflectionExercitiu.csproj.CoreCompileInputs.cache
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Ex_1\ReflectionExercitiu\ReflectionExercitiu\obj\Debug\ReflectionExercitiu.exe
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Ex_1\ReflectionExercitiu\ReflectionExercitiu\obj\Debug\ReflectionExercitiu.pdb

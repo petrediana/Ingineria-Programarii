@@ -1,0 +1,7 @@
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Emit\ReflEmit\ReflEmit\bin\Debug\ReflEmit.exe.config
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Emit\ReflEmit\ReflEmit\bin\Debug\ReflEmit.exe
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Emit\ReflEmit\ReflEmit\bin\Debug\ReflEmit.pdb
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Emit\ReflEmit\ReflEmit\obj\Debug\ReflEmit.csprojAssemblyReference.cache
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Emit\ReflEmit\ReflEmit\obj\Debug\ReflEmit.csproj.CoreCompileInputs.cache
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Emit\ReflEmit\ReflEmit\obj\Debug\ReflEmit.exe
+C:\Users\Peanut\source\repos\examen_ipla\Reflection\Emit\ReflEmit\ReflEmit\obj\Debug\ReflEmit.pdb
