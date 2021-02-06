@@ -1,0 +1,7 @@
+C:\Users\Peanut\source\repos\examen_ipla\ConsoleAppWordExcel\ConsoleAppWordExcel\bin\Debug\ConsoleAppWordExcel.exe.config
+C:\Users\Peanut\source\repos\examen_ipla\ConsoleAppWordExcel\ConsoleAppWordExcel\bin\Debug\ConsoleAppWordExcel.exe
+C:\Users\Peanut\source\repos\examen_ipla\ConsoleAppWordExcel\ConsoleAppWordExcel\bin\Debug\ConsoleAppWordExcel.pdb
+C:\Users\Peanut\source\repos\examen_ipla\ConsoleAppWordExcel\ConsoleAppWordExcel\obj\Debug\ConsoleAppWordExcel.csprojAssemblyReference.cache
+C:\Users\Peanut\source\repos\examen_ipla\ConsoleAppWordExcel\ConsoleAppWordExcel\obj\Debug\ConsoleAppWordExcel.csproj.CoreCompileInputs.cache
+C:\Users\Peanut\source\repos\examen_ipla\ConsoleAppWordExcel\ConsoleAppWordExcel\obj\Debug\ConsoleAppWordExcel.exe
+C:\Users\Peanut\source\repos\examen_ipla\ConsoleAppWordExcel\ConsoleAppWordExcel\obj\Debug\ConsoleAppWordExcel.pdb
