@@ -1,0 +1,11 @@
+C:\Users\Peanut\source\repos\examen_ipla\Evenimente\1\ElementEveniment\ElementEveniment\bin\Debug\ElementEveniment.exe.config
+C:\Users\Peanut\source\repos\examen_ipla\Evenimente\1\ElementEveniment\ElementEveniment\bin\Debug\ElementEveniment.exe
+C:\Users\Peanut\source\repos\examen_ipla\Evenimente\1\ElementEveniment\ElementEveniment\bin\Debug\ElementEveniment.pdb
+C:\Users\Peanut\source\repos\examen_ipla\Evenimente\1\ElementEveniment\ElementEveniment\obj\Debug\ElementEveniment.csprojAssemblyReference.cache
+C:\Users\Peanut\source\repos\examen_ipla\Evenimente\1\ElementEveniment\ElementEveniment\obj\Debug\ElementEveniment.Properties.Resources.resources
+C:\Users\Peanut\source\repos\examen_ipla\Evenimente\1\ElementEveniment\ElementEveniment\obj\Debug\ElementEveniment.csproj.GenerateResource.cache
+C:\Users\Peanut\source\repos\examen_ipla\Evenimente\1\ElementEveniment\ElementEveniment\obj\Debug\ElementEveniment.csproj.CoreCompileInputs.cache
+C:\Users\Peanut\source\repos\examen_ipla\Evenimente\1\ElementEveniment\ElementEveniment\obj\Debug\ElementEveniment.exe
+C:\Users\Peanut\source\repos\examen_ipla\Evenimente\1\ElementEveniment\ElementEveniment\obj\Debug\ElementEveniment.pdb
+C:\Users\Peanut\source\repos\examen_ipla\Evenimente\1\ElementEveniment\ElementEveniment\obj\Debug\ElementEveniment.Form1.resources
+C:\Users\Peanut\source\repos\examen_ipla\Evenimente\1\ElementEveniment\ElementEveniment\obj\Debug\ElementEveniment.Form2.resources
